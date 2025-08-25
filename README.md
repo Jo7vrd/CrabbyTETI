@@ -5,13 +5,10 @@ Kondisi ini menunjukkan adanya kesenjangan antara potensi ekonomi besar dan kete
 
 Fitur:  
 - Dashboard & Monitoring Real-time  
-
 - Analisis & Pelaporan Bisnis  
-
 - Manajemen Data & Input  
 
 KELOMPOK CrabbyTETI
-
-Anggota 1 : Kistosi Al Ghifari (23/515523/TK/56680) 
-Anggota 2 : Muhammad Zufar Syaafi’ (23/517479/TK/56923) 
-Anggota 3 : Jonathan Alvarado Panjaitan (23/515661/TK/56706)
+- Anggota 1 : Kistosi Al Ghifari (23/515523/TK/56680) 
+- Anggota 2 : Muhammad Zufar Syaafi’ (23/517479/TK/56923) 
+- Anggota 3 : Jonathan Alvarado Panjaitan (23/515661/TK/56706)
